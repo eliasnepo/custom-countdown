@@ -1,11 +1,11 @@
 <h1 align="center">
-Temporizador
+Temporizador ⏱
 </h1>
 <h1 align="center">
-    <img src="https://ik.imagekit.io/b2twgpcgqmc/Countdown/custom-countdown_VH7gxx747.gif" />
+    <img src="https://ik.imagekit.io/b2twgpcgqmc/Countdown/ezgif.com-gif-maker_jSnJ-vald.gif" />
 </h1>
 <h1 align="center">
-    <b><a href="">Acesse a demonstração</a></b>
+    <b><a href="https://eliasnepo.github.io/custom-countdown/">Acesse a demonstração</a></b>
 </h1>
 
 ---
@@ -17,7 +17,7 @@ Temporizador
 
  ## 📂 Como usar o projeto
 
- Para usar o projeto, <a href="">acesse a demonstração</a> e aproveite. 😜
+ Para usar o projeto, <a href="https://eliasnepo.github.io/custom-countdown/">acesse a demonstração</a> e aproveite. 😜
 
 ---
 
