@@ -7,7 +7,7 @@ Temporizador ⏱
     <img src="https://ik.imagekit.io/b2twgpcgqmc/Countdown/Screenshot_82_V6YCKEUl0f.png" width="640"/>
 </h1>
 <h1 align="center">
-    <b><a href="https://eliasnepo.github.io/custom-countdown/">Acesse a demonstração</a></b>
+    <b><a href="https://eliasnepo.github.io/temporizador/">Acesse a demonstração</a></b>
 </h1>
 
 ---
@@ -19,7 +19,7 @@ Temporizador ⏱
 
  ## 📂 Como usar o projeto
 
- Para usar o projeto, <a href="https://eliasnepo.github.io/custom-countdown/">acesse a demonstração</a> e aproveite. 😜
+ Para usar o projeto, <a href="https://eliasnepo.github.io/temporizador/">acesse a demonstração</a> e aproveite. 😜
 
 ---
 
