@@ -2,7 +2,9 @@
 Temporizador ⏱
 </h1>
 <h1 align="center">
-    <img src="https://ik.imagekit.io/b2twgpcgqmc/Countdown/ezgif.com-gif-maker_jSnJ-vald.gif" />
+    <img src="https://ik.imagekit.io/b2twgpcgqmc/Countdown/Screenshot_80_2s0ykXXHg.png" width="640"/>
+    <img src="https://ik.imagekit.io/b2twgpcgqmc/Countdown/Screenshot_81_goI7u9T2g1.png" width="640"/>
+    <img src="https://ik.imagekit.io/b2twgpcgqmc/Countdown/Screenshot_82_V6YCKEUl0f.png" width="640"/>
 </h1>
 <h1 align="center">
     <b><a href="https://eliasnepo.github.io/custom-countdown/">Acesse a demonstração</a></b>
