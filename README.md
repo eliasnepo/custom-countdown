@@ -1,14 +1,17 @@
 <h1 align="center">
 Temporizador ⏱
 </h1>
-<h1 align="center">
+<h3 align="center">
     <img src="https://ik.imagekit.io/b2twgpcgqmc/Countdown/Screenshot_80_2s0ykXXHg.png" width="640"/>
     <img src="https://ik.imagekit.io/b2twgpcgqmc/Countdown/Screenshot_81_goI7u9T2g1.png" width="640"/>
     <img src="https://ik.imagekit.io/b2twgpcgqmc/Countdown/Screenshot_82_V6YCKEUl0f.png" width="640"/>
-</h1>
-<h1 align="center">
-    <b><a href="https://eliasnepo.github.io/temporizador/">Acesse a demonstração</a></b>
-</h1>
+</h3>
+
+---
+
+<h3 align="center">
+    <a href="https://eliasnepo.github.io/temporizador/"><img src="https://ik.imagekit.io/b2twgpcgqmc/Buttons/button_acessar-demonstracao__4__hh_ZaME5a.png" /></a>
+</h3>
 
 ---
 
